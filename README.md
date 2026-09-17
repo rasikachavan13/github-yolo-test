@@ -15,6 +15,9 @@ This repository is for experimenting with:
 
 This README was created as part of a simple pull request workflow.
 
+# YOLO Test
+
+Testing a small GitHub workflow.
 ---
 
 Made for learning and practicing GitHub. 🐙
