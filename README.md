@@ -21,3 +21,6 @@ Testing a small GitHub workflow.
 ---
 
 Made for learning and practicing GitHub. 🐙
+
+This is just for knowing how branches are formed.
+
